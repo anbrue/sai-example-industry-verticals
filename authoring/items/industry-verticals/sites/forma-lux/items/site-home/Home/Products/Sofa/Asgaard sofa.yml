@@ -106,7 +106,7 @@ Languages:
       Value: Asgaard Sofa | Forma Lux – Modern Modular Sofa with Timeless Craftsmanship
     - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
       Hint: ShortDescription
-      Value: "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound."
+      Value: A modular sofa with clean, sculpted lines and rich upholstery, built to adapt to any living space.
     - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
       Hint: metadataKeywords
       Value: Asgaard Sofa, modular sofa, luxury couch, modern living room furniture, handcrafted upholstery, Forma Lux shop, contemporary sofa design, sustainable furniture
@@ -135,7 +135,7 @@ Languages:
       Value: 167 cm
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bdb021b9-0ddb-468e-a908-7be9e00597b2"
+      Value: "c4680789-6906-4588-9fff-ef654c47e293"
     - ID: "acbcb630-e684-43ae-bb85-9fc89052c8a9"
       Hint: Weight
       Value: 45 KG
@@ -148,17 +148,17 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\anna.brundel@sitecore.com
     - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
       Hint: Title
       Value: Asgaard sofa
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260313T093840Z
+      Value: 20261001T192729Z
     - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
       Hint: LongDescription
       Value: |
-        <div class="ck-content"><p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p><p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p></div>
+        <div class="ck-content"><p>The Asgaard Sofa pairs modular flexibility with sculpted precision. Its clean geometry is softened by rich, tailored upholstery and deep seat cushions, while a sustainably sourced frame keeps it sturdy for years to come.</p><p>Configure it for an urban loft or a spacious family room. Asgaard is available in Black, Gold and Indigo, and in Extra Small, Small and Medium sizes.</p></div>
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: A statement in both comfort and craft, the Asgaard Sofa represents the essence of Forma Lux living. Designed with modular flexibility and sculpted precision, Asgaard’s clean geometry is softened by rich upholstery and a balanced silhouette. Available in Black, Gold, and Indigo, and in Extra Small, Small, and Medium sizes, it adapts effortlessly to urban lofts or spacious homes. Each detail—from the tailored stitching to the sustainable frame—reflects Forma Lux’s dedication to timeless design and modern comfort.
@@ -422,6 +422,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250925T123846Z
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Un canapé modulaire aux lignes épurées et sculptées, au revêtement généreux, conçu pour s'adapter à tous les espaces de vie.
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -432,14 +435,21 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dcfb2049-5374-4e45-8d74-f382f56927ab"
+      Value: "3e7613f8-fb68-4c52-88cc-e694b7da2350"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: 
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\anna.brundel@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Asgaard sofa
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250929T091731Z
+      Value: 20261001T192730Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: |
+        <div class="ck-content"><p>Le canapé Asgaard allie flexibilité modulaire et précision sculpturale. Sa géométrie épurée est adoucie par un revêtement riche et ajusté et des coussins d'assise profonds, tandis qu'une structure issue de sources durables lui assure solidité et longévité.</p><p>Configurez-le pour un loft urbain ou un grand salon familial. Asgaard est disponible en noir, or et indigo, et en tailles très petite, petite et moyenne.</p></div>
